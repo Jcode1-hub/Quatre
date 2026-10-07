@@ -1,0 +1,12 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    { "idx": 0, "version": "7", "when": 1791331200000, "tag": "0001_quatre", "breakpoints": true },
+    { "idx": 1, "version": "7", "when": 1791331201000, "tag": "0002_profiles", "breakpoints": true },
+    { "idx": 2, "version": "7", "when": 1791331202000, "tag": "0003_usage_limits", "breakpoints": true },
+    { "idx": 3, "version": "7", "when": 1791347241000, "tag": "0004_profiles_community", "breakpoints": true },
+    { "idx": 4, "version": "7", "when": 1791347242000, "tag": "0005_notifications", "breakpoints": true },
+    { "idx": 5, "version": "7", "when": 1791347243000, "tag": "0006_notification_visibility", "breakpoints": true }
+  ]
+}
